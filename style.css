@@ -123,3 +123,28 @@ h1 {
     text-align: center;
     padding: 2px;
 }
+
+.testimonial {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: #e5e7eb;
+    color: #1f2937;
+    
+}
+
+.testimonial p {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    width: 900px;
+}
+
+cite {
+    font-weight: 900;
+    font-size: 20px;
+    display: block;
+    text-align: right;
+    font-style: normal;
+    width: 900px;
+}
