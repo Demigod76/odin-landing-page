@@ -179,3 +179,10 @@ cite {
     padding: 4px 20px;
     font-weight: 600;
 }
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
